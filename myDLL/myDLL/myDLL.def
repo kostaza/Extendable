@@ -1,0 +1,4 @@
+LIBRARY myDLL
+
+EXPORTS
+	start @1
